@@ -1,0 +1,1 @@
+This is the test file created to store terraform related code to remote.
